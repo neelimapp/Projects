@@ -1,0 +1,1000 @@
+id,make,model,year,package,fuel type,transmission,favorite
+1000,Mercedes-Benz,E350,2012,Maintainence service,Gas,Automatic,TRUE
+1001,Maruthi,M150,2000,Maintainence service,Gas,Manual,FALSE
+1002,BMW,B450,2016,Extra comfort and Maintenance Services,Gas,Automatic,TRUE
+1003,Bugatti,B451,1999,Extra comfort and Maintenance Services,Gas,Automatic,TRUE
+1004,Bentley,B452,2000,Accident Protection Plan,Gas,Automatic,TRUE
+1005,BMW,B453,2001,Extra comfort and Milage,Gas,Automatic,TRUE
+1006,Bugatti,B454,2002,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1007,Bentley,B455,2003,Maintainence service,Gas,Automatic,TRUE
+1008,BMW,B456,2004,Maintainence service,Gas,Automatic,TRUE
+1009,Buick,B457,2005,Maintainence service,Gas,Automatic,TRUE
+1010,BMW,B458,2006,Maintainence service,Gas,Automatic,TRUE
+1011,Bugatti,B459,2007,Maintainence service,Gas,Automatic,TRUE
+1012,Bentley,B460,2008,Maintainence service,Gas,Automatic,TRUE
+1013,BMW,B461,2009,Maintainence service,Gas,Automatic,TRUE
+1014,Acura,A100,2010,Maintainence service,Gas,Automatic,TRUE
+1015,Audi,A101,2011,Maintainence service,Gas,Automatic,TRUE
+1016,Aston,A102,2012,Maintainence service,Gas,Automatic,TRUE
+1017,Acura,A103,2013,Maintainence service,Gas,Automatic,TRUE
+1018,Audi,A104,2014,Maintainence service,Gas,Automatic,TRUE
+1019,Aston,A105,2015,Maintainence service,Gas,Automatic,TRUE
+1020,Acura,A106,2016,Maintainence service,Gas,Automatic,FALSE
+1021,Audi,A107,2017,Maintainence service,Diesel,Automatic,FALSE
+1022,Aston,A108,2018,Maintainence service,Diesel,Automatic,FALSE
+1023,Acura,A109,1990,Extra comfort and Maintenance Services,Diesel,Automatic,FALSE
+1024,Audi,A110,1991,Extra comfort and Maintenance Services,Diesel,Automatic,FALSE
+1025,Aston,A111,1992,Extra comfort and Maintenance Services,Diesel,Automatic,FALSE
+1026,Acura,A112,1993,Extra comfort and Maintenance Services,Diesel,Manual,FALSE
+1027,Audi,A113,1994,Extra comfort and Maintenance Services,Diesel,Manual,FALSE
+1028,Aston,A114,1995,Extra comfort and Maintenance Services,Diesel,Manual,FALSE
+1029,Acura,A115,1996,Extra comfort and Maintenance Services,Diesel,Manual,FALSE
+1030,Audi,A116,1997,Extra comfort and Maintenance Services,Diesel,Manual,FALSE
+1031,Aston,A117,1998,Extra comfort and Maintenance Services,Diesel,Manual,FALSE
+1032,Acura,A118,1999,Extra comfort and Maintenance Services,Diesel,Manual,FALSE
+1033,Audi,A119,2000,Extra comfort and Maintenance Services,Diesel,Manual,FALSE
+1034,Aston,A120,2001,Accident Protection Plan,Diesel,Manual,FALSE
+1035,Acura,A121,2002,Accident Protection Plan,Diesel,Manual,FALSE
+1036,Audi,A122,2003,Accident Protection Plan,Diesel,Manual,FALSE
+1037,Aston,A123,2004,Accident Protection Plan,Diesel,Manual,FALSE
+1038,Acura,A124,2005,Accident Protection Plan,Diesel,Manual,FALSE
+1039,Audi,A125,2006,Accident Protection Plan,Diesel,Manual,FALSE
+1040,Aston,A126,2007,Accident Protection Plan,Diesel,Manual,FALSE
+1041,Acura,A127,2008,Accident Protection Plan,Diesel,Manual,FALSE
+1042,Audi,A128,2009,Accident Protection Plan,Diesel,Manual,FALSE
+1043,Honda,H150,2010,Accident Protection Plan,Diesel,Manual,FALSE
+1044,Hyundai,H151,2011,Accident Protection Plan,Diesel,Manual,FALSE
+1045,Honda,H152,2012,Accident Protection Plan,Diesel,Manual,FALSE
+1046,Hyundai,H153,2013,Accident Protection Plan,Diesel,Manual,FALSE
+1047,Honda,H154,2014,Accident Protection Plan,Diesel,Manual,FALSE
+1048,Hyundai,H155,2015,Accident Protection Plan,Diesel,Manual,FALSE
+1049,Honda,H156,2016,Extra comfort and Milage,Diesel,Manual,FALSE
+1050,Hyundai,H157,2017,Extra comfort and Milage,Diesel,Manual,FALSE
+1051,Honda,H158,2018,Extra comfort and Milage,Diesel,Manual,FALSE
+1052,Hyundai,H159,1890,Extra comfort and Milage,Diesel,Manual,FALSE
+1053,Honda,H160,1891,Extra comfort and Milage,Diesel,Manual,FALSE
+1054,Hyundai,H161,1892,Extra comfort and Milage,Diesel,Manual,FALSE
+1055,Honda,H162,1893,Extra comfort and Milage,Diesel,Manual,FALSE
+1056,Hyundai,H163,1894,Extra comfort and Milage,Diesel,Manual,FALSE
+1057,Honda,H164,1895,Extra comfort and Milage,Diesel,Manual,FALSE
+1058,Hyundai,H165,1896,Extra comfort and Milage,Diesel,Manual,FALSE
+1059,Honda,H166,1897,Extra comfort and Milage,Diesel,Manual,FALSE
+1060,Hyundai,H167,1898,Extra comfort and Milage,Diesel,Manual,FALSE
+1061,Honda,H168,1899,Extra comfort and Milage,Diesel,Manual,FALSE
+1062,Hyundai,H169,1900,Extra comfort and Milage,Diesel,Manual,FALSE
+1063,Honda,H170,1901,Extra comfort and Milage,Diesel,Manual,FALSE
+1064,Hyundai,H171,1902,Extra comfort and Milage,Diesel,Manual,FALSE
+1065,Honda,H172,1903,Extra comfort and Milage,Diesel,Automatic,FALSE
+1066,Hyundai,H173,1904,Extra comfort and Milage,Diesel,Automatic,FALSE
+1067,Honda,H174,1905,Extra comfort and Milage,Gas,Automatic,FALSE
+1068,Hyundai,H175,1906,Extra comfort and Milage,Gas,Automatic,FALSE
+1069,Honda,H176,1907,Extra comfort and Milage,Gas,Automatic,FALSE
+1070,Hyundai,H177,1908,Extra comfort and Milage,Gas,Automatic,FALSE
+1071,Honda,H178,1909,Extra comfort and Milage,Gas,Automatic,FALSE
+1072,Hyundai,H179,1910,Extra comfort and Milage,Gas,Automatic,FALSE
+1073,Honda,H180,1911,Extra comfort and Milage,Gas,Automatic,FALSE
+1074,Hyundai,H181,1912,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1075,Honda,H182,1913,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1076,Hyundai,H183,1914,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1077,Honda,H184,1915,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1078,Hyundai,H185,1916,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1079,Honda,H186,1917,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1080,Hyundai,H187,1918,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1081,Honda,H188,1919,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1082,Hyundai,H189,1920,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1083,Honda,H190,1921,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1084,Hyundai,H191,1922,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1085,Honda,H192,1923,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1086,Hyundai,H193,1924,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1087,Honda,H194,1925,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1088,Hyundai,H195,1926,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1089,Honda,H196,1927,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1090,Hyundai,H197,1928,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1091,Honda,H198,1929,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1092,Hyundai,H199,1930,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1093,Honda,H200,1931,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1094,Hyundai,H201,1932,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1095,Honda,H202,1933,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1096,Hyundai,H203,1934,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1097,Honda,H204,1935,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1098,Hyundai,H205,1936,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1099,Honda,H206,1937,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1100,Hyundai,H207,1938,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1101,Honda,H208,1939,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1102,Hyundai,H209,1940,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1103,Honda,H210,1941,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1104,Hyundai,H211,1942,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1105,Honda,H212,1943,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1106,Hyundai,H213,1944,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1107,Honda,H214,1945,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1108,Hyundai,H215,1946,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1109,Honda,H216,1947,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1110,Hyundai,H217,1948,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1111,Honda,H218,1949,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1112,Hyundai,H219,1950,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1113,Honda,H220,1951,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1114,Hyundai,H221,1952,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1115,Honda,H222,1953,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1116,Hyundai,H223,1954,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1117,Honda,H224,1955,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1118,Hyundai,H225,1956,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1119,Honda,H226,1957,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1120,Hyundai,H227,1958,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1121,Honda,H228,1959,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1122,Hyundai,H229,1960,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1123,Honda,H230,1961,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1124,Hyundai,H231,1962,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1125,Honda,H232,1963,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1126,Hyundai,H233,1964,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1127,Honda,H234,1965,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1128,Hyundai,H235,1966,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1129,Honda,H236,1967,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1130,Hyundai,H237,1968,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1131,Honda,H238,1969,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1132,Hyundai,H239,1970,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1133,Honda,H240,1971,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1134,Hyundai,H241,1972,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1135,Honda,H242,1973,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1136,Hyundai,H243,1974,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1137,Honda,H244,1975,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1138,Hyundai,H245,1976,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1139,Honda,H246,1977,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1140,Hyundai,H247,1978,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1141,Honda,H248,1979,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1142,Hyundai,H249,1980,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1143,Honda,H250,1981,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1144,Hyundai,H251,1982,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1145,Honda,H252,1983,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1146,Hyundai,H253,1984,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1147,Honda,H254,1985,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1148,Hyundai,H255,1986,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1149,Honda,H256,1987,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1150,Hyundai,H257,1988,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1151,Honda,H258,1989,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1152,Hyundai,H259,1990,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1153,Honda,H260,1991,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1154,Hyundai,H261,1992,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1155,Honda,H262,1993,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1156,Hyundai,H263,1994,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1157,Honda,H264,1995,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1158,Hyundai,H265,1996,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1159,Honda,H266,1997,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1160,Hyundai,H267,1998,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1161,Honda,H268,1999,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1162,Hyundai,H269,2000,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1163,Honda,H270,2001,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1164,Hyundai,H271,2002,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1165,Honda,H272,2003,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1166,Hyundai,H273,2004,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1167,Honda,H274,2005,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1168,Hyundai,H275,2006,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1169,Honda,H276,2007,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1170,Hyundai,H277,2008,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1171,Honda,H278,2009,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1172,Hyundai,H279,2010,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1173,Honda,H280,2011,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1174,Hyundai,H281,2012,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1175,Honda,H282,2013,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1176,Hyundai,H283,2014,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1177,Honda,H284,2015,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1178,Hyundai,H285,2016,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1179,Honda,H286,2017,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1180,Hyundai,H287,1881,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1181,Honda,H288,1882,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1182,Hyundai,H289,1883,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1183,Honda,H290,1884,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1184,Hyundai,H291,1885,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1185,Honda,H292,1886,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1186,Hyundai,H293,1887,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1187,Honda,H294,1888,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1188,Hyundai,H295,1889,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1189,Honda,H296,1890,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1190,Hyundai,H297,1891,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1191,Honda,H298,1892,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1192,Hyundai,H299,1893,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1193,Honda,H300,1894,Accident Protection Plan and Maintainence service,Diesel,Manual,TRUE
+1194,Hyundai,H301,1895,Accident Protection Plan and Maintainence service,Diesel,Manual,TRUE
+1195,Honda,H302,1896,Accident Protection Plan and Maintainence service,Diesel,Manual,TRUE
+1196,Hyundai,H303,1897,Accident Protection Plan and Maintainence service,Diesel,Manual,TRUE
+1197,Honda,H304,1898,Accident Protection Plan and Maintainence service,Diesel,Manual,TRUE
+1198,Hyundai,H305,1899,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1199,Honda,H306,1900,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1200,Hyundai,H307,1901,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1201,Honda,H308,1902,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1202,Hyundai,H309,1903,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1203,Honda,H310,1904,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1204,Hyundai,H311,1905,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1205,Honda,H312,1906,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1206,Hyundai,H313,1907,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1207,Honda,H314,1908,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1208,Hyundai,H315,1909,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1209,Honda,H316,1910,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1210,Hyundai,H317,1911,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1211,Honda,H318,1912,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1212,Hyundai,H319,1913,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1213,Honda,H320,1914,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1214,Hyundai,H321,1915,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1215,Honda,H322,1916,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1216,Hyundai,H323,1917,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1217,Honda,H324,1918,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1218,Hyundai,H325,1919,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1219,Honda,H326,1920,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1220,Hyundai,H327,1921,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1221,Honda,H328,1922,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1222,Hyundai,H329,1923,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1223,Honda,H330,1924,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1224,Hyundai,H331,1925,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1225,Honda,H332,1926,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1226,Hyundai,H333,1927,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1227,Honda,H334,1928,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1228,Hyundai,H335,1929,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1229,Honda,H336,1930,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1230,Hyundai,H337,1931,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1231,Honda,H338,1932,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1232,Hyundai,H339,1933,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1233,Honda,H340,1934,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1234,Hyundai,H341,1935,Accident Protection Plan and Maintainence service,Gas,Manual,TRUE
+1235,Honda,H342,1936,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1236,Hyundai,H343,1937,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1237,Honda,H344,1938,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1238,Hyundai,H345,1939,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1239,Honda,H346,1940,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1240,Hyundai,H347,1941,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1241,Honda,H348,1942,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1242,Hyundai,H349,1943,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1243,Honda,H350,1944,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1244,Hyundai,H351,1945,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1245,Honda,H352,1946,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1246,Hyundai,H353,1947,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1247,Honda,H354,1948,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1248,Hyundai,H355,1949,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1249,Honda,H356,1950,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1250,Hyundai,H357,1951,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1251,Honda,H358,1952,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1252,Hyundai,H359,1953,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1253,Honda,H360,1954,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1254,Hyundai,H361,1955,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1255,Honda,H362,1956,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1256,Hyundai,H363,1957,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1257,Honda,H364,1958,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1258,Hyundai,H365,1959,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1259,Honda,H366,1960,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1260,Hyundai,H367,1961,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1261,Honda,H368,1962,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1262,Hyundai,H369,1963,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1263,Honda,H370,1964,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1264,Hyundai,H371,1965,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1265,Honda,H372,1966,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1266,Hyundai,H373,1967,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1267,Honda,H374,1968,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1268,Hyundai,H375,1969,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1269,Honda,H376,1970,Accident Protection Plan and Maintainence service,Diesel,Manual,FALSE
+1270,Hyundai,H377,1971,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1271,Honda,H378,1972,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1272,Hyundai,H379,1973,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1273,Honda,H380,1974,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1274,Hyundai,H381,1975,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1275,Honda,H382,1976,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1276,Hyundai,H383,1977,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1277,Honda,H384,1978,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1278,Hyundai,H385,1979,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1279,Honda,H386,1980,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1280,Hyundai,H387,1981,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1281,Honda,H388,1982,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1282,Hyundai,H389,1983,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1283,Honda,H390,1984,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1284,Maserati,M180,1985,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1285,Mazda,M181,1986,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1286,McLaren,M182,1987,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1287,Maruthi,M183,1988,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1288,Mini,M184,1989,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1289,Mercedes-Benz,M185,1990,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1290,Maserati,M186,1991,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1291,Mazda,M187,1992,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1292,McLaren,M188,1993,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1293,Maruthi,M189,1994,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1294,Mini,M190,1995,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1295,Mercedes-Benz,M191,1996,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1296,Maserati,M192,1997,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1297,Mazda,M193,1998,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1298,McLaren,M194,1999,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1299,Maruthi,M195,2000,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1300,Mini,M196,2001,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1301,Mercedes-Benz,M197,2002,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1302,Maserati,M198,2003,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1303,Mazda,M199,2004,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1304,McLaren,M200,2005,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1305,Maruthi,M201,2006,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1306,Mini,M202,2007,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1307,Mercedes-Benz,M203,2008,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1308,Maserati,M204,2009,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1309,Mazda,M205,2010,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1310,McLaren,M206,2011,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1311,Maruthi,M207,2012,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1312,Mini,M208,2013,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1313,Mercedes-Benz,M209,2014,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1314,Maserati,M210,2015,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1315,Mazda,M211,2016,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1316,McLaren,M212,2017,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1317,Maruthi,M213,2018,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1318,Mini,M214,1891,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1319,Mercedes-Benz,M215,1892,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1320,Maserati,M216,1893,Accident Protection Plan and Maintainence service,Diesel,Automatic,FALSE
+1321,Mazda,M217,1894,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1322,McLaren,M218,1895,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1323,Maruthi,M219,1896,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1324,Mini,M220,1897,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1325,Mercedes-Benz,M221,1898,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1326,Maserati,M222,1899,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1327,Mazda,M223,1900,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1328,McLaren,M224,1901,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1329,Maruthi,M225,1902,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1330,Mini,M226,1903,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1331,Mercedes-Benz,M227,1904,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1332,Maserati,M228,1905,Accident Protection Plan and Maintainence service,Diesel,Automatic,TRUE
+1333,Mazda,M229,1906,Maintainence service,Diesel,Automatic,TRUE
+1334,McLaren,M230,1907,Maintainence service,Diesel,Automatic,TRUE
+1335,Maruthi,M231,1908,Maintainence service,Diesel,Automatic,TRUE
+1336,Mini,M232,1909,Maintainence service,Diesel,Automatic,TRUE
+1337,Mercedes-Benz,M233,1910,Maintainence service,Gas,Automatic,TRUE
+1338,Maserati,M234,1911,Maintainence service,Gas,Automatic,TRUE
+1339,Mazda,M235,1912,Maintainence service,Gas,Automatic,TRUE
+1340,McLaren,M236,1913,Maintainence service,Gas,Automatic,TRUE
+1341,Maruthi,M237,1914,Maintainence service,Gas,Automatic,TRUE
+1342,Mini,M238,1915,Maintainence service,Gas,Automatic,TRUE
+1343,Mercedes-Benz,M239,1916,Maintainence service,Gas,Automatic,TRUE
+1344,Maserati,M240,1917,Maintainence service,Gas,Automatic,TRUE
+1345,Mazda,M241,1918,Maintainence service,Gas,Automatic,TRUE
+1346,McLaren,M242,1919,Maintainence service,Gas,Automatic,TRUE
+1347,Maruthi,M243,1920,Maintainence service,Gas,Automatic,TRUE
+1348,Mini,M244,1921,Maintainence service,Gas,Automatic,TRUE
+1349,Mercedes-Benz,M245,1922,Maintainence service,Gas,Automatic,TRUE
+1350,Maserati,M246,1923,Maintainence service,Gas,Automatic,TRUE
+1351,Mazda,M247,1924,Extra Comfort and Milage,Gas,Automatic,TRUE
+1352,McLaren,M248,1925,Extra Comfort and Milage,Gas,Automatic,TRUE
+1353,Maruthi,M249,1926,Extra Comfort and Milage,Gas,Automatic,TRUE
+1354,Mini,M250,1927,Extra Comfort and Milage,Gas,Automatic,TRUE
+1355,Mercedes-Benz,M251,1928,Extra Comfort and Milage,Gas,Automatic,TRUE
+1356,Maserati,M252,1929,Extra Comfort and Milage,Gas,Automatic,TRUE
+1357,Mazda,M253,1930,Extra Comfort and Milage,Gas,Automatic,TRUE
+1358,McLaren,M254,1931,Extra Comfort and Milage,Gas,Automatic,TRUE
+1359,Maruthi,M255,1932,Extra Comfort and Milage,Gas,Automatic,TRUE
+1360,Mini,M256,1933,Extra Comfort and Milage,Gas,Automatic,TRUE
+1361,Mercedes-Benz,M257,1934,Extra Comfort and Milage,Gas,Automatic,TRUE
+1362,Maserati,M258,1935,Extra Comfort and Milage,Gas,Automatic,TRUE
+1363,Mazda,M259,1936,Extra Comfort and Milage,Gas,Automatic,TRUE
+1364,McLaren,M260,1937,Extra Comfort and Milage,Gas,Automatic,TRUE
+1365,Maruthi,M261,1938,Extra Comfort and Milage,Gas,Automatic,TRUE
+1366,Mini,M262,1939,Extra Comfort and Milage,Gas,Automatic,TRUE
+1367,Mercedes-Benz,M263,1940,Extra Comfort and Milage,Gas,Automatic,TRUE
+1368,Maserati,M264,1941,Extra Comfort and Milage,Gas,Automatic,TRUE
+1369,Mazda,M265,1942,Extra Comfort and Milage,Gas,Automatic,TRUE
+1370,McLaren,M266,1943,Extra Comfort and Milage,Gas,Automatic,TRUE
+1371,Maruthi,M267,1944,Extra Comfort and Milage,Gas,Automatic,TRUE
+1372,Mini,M268,1945,Extra Comfort and Milage,Gas,Automatic,TRUE
+1373,Mercedes-Benz,M269,1946,Extra Comfort and Milage,Gas,Automatic,TRUE
+1374,Maserati,M270,1947,Extra Comfort and Milage,Gas,Automatic,TRUE
+1375,Mazda,M271,1948,Extra Comfort and Milage,Gas,Automatic,TRUE
+1376,McLaren,M272,1949,Extra Comfort and Milage,Gas,Automatic,TRUE
+1377,Maruthi,M273,1950,Extra Comfort and Milage,Gas,Automatic,FALSE
+1378,Mini,M274,1951,Extra Comfort and Milage,Gas,Automatic,FALSE
+1379,Mercedes-Benz,M275,1952,Extra Comfort and Milage,Gas,Automatic,FALSE
+1380,Maserati,M276,1953,Extra Comfort and Milage,Gas,Automatic,FALSE
+1381,Mazda,M277,1954,Extra Comfort and Milage,Gas,Automatic,FALSE
+1382,McLaren,M278,1955,Extra Comfort and Milage,Gas,Automatic,FALSE
+1383,Maruthi,M279,1956,Extra Comfort and Milage,Gas,Automatic,FALSE
+1384,Mini,M280,1957,Extra Comfort and Milage,Gas,Automatic,FALSE
+1385,Mercedes-Benz,M281,1958,Extra Comfort and Milage,Gas,Automatic,FALSE
+1386,Maserati,M282,1959,Extra Comfort and Milage,Gas,Automatic,FALSE
+1387,Mazda,M283,1960,Extra Comfort and Milage,Gas,Automatic,FALSE
+1388,McLaren,M284,1961,Extra Comfort and Milage,Gas,Automatic,FALSE
+1389,Maruthi,M285,1962,Extra Comfort and Milage,Gas,Automatic,FALSE
+1390,Mini,M286,1963,Extra Comfort and Milage,Gas,Automatic,FALSE
+1391,Mercedes-Benz,M287,1964,Extra Comfort and Milage,Gas,Automatic,FALSE
+1392,Maserati,M288,1965,Extra Comfort and Milage,Gas,Automatic,FALSE
+1393,Mazda,M289,1966,Extra Comfort and Milage,Gas,Automatic,FALSE
+1394,McLaren,M290,1967,Extra Comfort and Milage,Gas,Automatic,FALSE
+1395,Maruthi,M291,1968,Extra Comfort and Milage,Gas,Automatic,FALSE
+1396,Mini,M292,1969,Extra Comfort and Milage,Gas,Automatic,FALSE
+1397,Mercedes-Benz,M293,1970,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1398,Maserati,M294,1971,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1399,Mazda,M295,1972,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1400,McLaren,M296,1973,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1401,Maruthi,M297,1974,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1402,Mini,M298,1975,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1403,Mercedes-Benz,M299,1976,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1404,Maserati,M300,1977,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1405,Mazda,M301,1978,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1406,McLaren,M302,1979,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1407,Maruthi,M303,1980,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1408,Mini,M304,1981,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1409,Mercedes-Benz,M305,1982,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1410,Maserati,M306,1983,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1411,Mazda,M307,1984,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1412,McLaren,M308,1985,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1413,Maruthi,M309,1986,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1414,Mini,M310,1987,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1415,Mercedes-Benz,M311,1988,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1416,Maserati,M312,1989,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1417,Mazda,M313,1990,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1418,McLaren,M314,1991,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1419,Maruthi,M315,1992,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1420,Mini,M316,1993,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1421,Mercedes-Benz,M317,1994,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1422,Maserati,M318,1995,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1423,Mazda,M319,1996,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1424,McLaren,M320,1997,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1425,Maruthi,M321,1998,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1426,Mini,M322,1999,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1427,Mercedes-Benz,M323,2000,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1428,Maserati,M324,2001,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1429,Mazda,M325,2002,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1430,McLaren,M326,2003,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
+1431,Maruthi,M327,2004,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1432,Mini,M328,2005,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1433,Mercedes-Benz,M329,2006,Accident Protection Plan and Maintainence service,Gas,Automatic,FALSE
+1434,Maserati,M330,2007,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1435,Mazda,M331,2008,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1436,McLaren,M332,2009,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1437,Maruthi,M333,2010,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1438,Mini,M334,2011,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1439,Mercedes-Benz,M335,2012,Accident Protection Plan,Gas,Manual,FALSE
+1440,Maserati,M336,2013,Accident Protection Plan,Gas,Manual,FALSE
+1441,Mazda,M337,2014,Accident Protection Plan,Gas,Manual,FALSE
+1442,McLaren,M338,2015,Accident Protection Plan,Gas,Manual,FALSE
+1443,Maruthi,M339,2016,Accident Protection Plan,Gas,Manual,FALSE
+1444,Mini,M340,2017,Accident Protection Plan,Gas,Manual,FALSE
+1445,Mercedes-Benz,M341,2018,Accident Protection Plan,Gas,Manual,FALSE
+1446,Maserati,M342,1881,Accident Protection Plan,Gas,Manual,FALSE
+1447,Mazda,M343,1882,Accident Protection Plan,Gas,Manual,FALSE
+1448,McLaren,M344,1883,Accident Protection Plan,Diesel,Manual,FALSE
+1449,Maruthi,M345,1884,Accident Protection Plan,Diesel,Manual,FALSE
+1450,Mini,M346,1885,Accident Protection Plan,Diesel,Manual,FALSE
+1451,Mercedes-Benz,M347,1886,Accident Protection Plan,Diesel,Manual,FALSE
+1452,Maserati,M348,1887,Accident Protection Plan,Diesel,Manual,FALSE
+1453,Mazda,M349,1888,Accident Protection Plan,Diesel,Manual,FALSE
+1454,McLaren,M350,1889,Accident Protection Plan,Diesel,Manual,FALSE
+1455,Maruthi,M351,1890,Accident Protection Plan,Diesel,Manual,FALSE
+1456,Mini,M352,1891,Accident Protection Plan,Diesel,Manual,FALSE
+1457,Mercedes-Benz,M353,1892,Accident Protection Plan,Diesel,Manual,FALSE
+1458,Maserati,M354,1893,Accident Protection Plan,Diesel,Manual,FALSE
+1459,Mazda,M355,1894,Accident Protection Plan,Diesel,Manual,FALSE
+1460,McLaren,M356,1895,Accident Protection Plan,Diesel,Manual,TRUE
+1461,Maruthi,M357,1896,Accident Protection Plan,Diesel,Manual,TRUE
+1462,Mini,M358,1897,Accident Protection Plan,Diesel,Manual,TRUE
+1463,Mercedes-Benz,M359,1898,Accident Protection Plan,Diesel,Manual,TRUE
+1464,Maserati,M360,1899,Accident Protection Plan,Diesel,Manual,TRUE
+1465,Mazda,M361,1900,Accident Protection Plan,Diesel,Manual,TRUE
+1466,McLaren,M362,1901,Accident Protection Plan,Diesel,Manual,TRUE
+1467,Maruthi,M363,1902,Accident Protection Plan,Diesel,Manual,TRUE
+1468,Mini,M364,1903,Accident Protection Plan,Diesel,Manual,TRUE
+1469,Mercedes-Benz,M365,1904,Accident Protection Plan,Diesel,Manual,TRUE
+1470,Maserati,M366,1905,Accident Protection Plan,Diesel,Manual,TRUE
+1471,Mazda,M367,1906,Accident Protection Plan,Diesel,Manual,TRUE
+1472,McLaren,M368,1907,Accident Protection Plan,Diesel,Manual,TRUE
+1473,Maruthi,M369,1908,Accident Protection Plan,Diesel,Manual,TRUE
+1474,Mini,M370,1909,Accident Protection Plan,Diesel,Manual,TRUE
+1475,Mercedes-Benz,M371,1910,Accident Protection Plan,Diesel,Manual,TRUE
+1476,Maserati,M372,1911,Accident Protection Plan,Diesel,Manual,TRUE
+1477,Mazda,M373,1912,Accident Protection Plan,Diesel,Manual,TRUE
+1478,McLaren,M374,1913,Accident Protection Plan,Diesel,Manual,TRUE
+1479,Maruthi,M375,1914,Maintainence service,Diesel,Manual,TRUE
+1480,Mini,M376,1915,Maintainence service,Diesel,Manual,FALSE
+1481,Ferrari,F120,1916,Maintainence service,Diesel,Manual,FALSE
+1482,Fiat,F121,1917,Maintainence service,Diesel,Manual,FALSE
+1483,Ford,F122,1918,Maintainence service,Diesel,Manual,FALSE
+1484,Ferrari,F123,1919,Maintainence service,Diesel,Manual,FALSE
+1485,Fiat,F124,1920,Maintainence service,Diesel,Manual,FALSE
+1486,Ford,F125,1921,Maintainence service,Diesel,Manual,FALSE
+1487,Ferrari,F126,1922,Maintainence service,Diesel,Manual,FALSE
+1488,Fiat,F127,1923,Maintainence service,Diesel,Manual,FALSE
+1489,Ford,F128,1924,Maintainence service,Diesel,Manual,FALSE
+1490,Ferrari,F129,1925,Maintainence service,Diesel,Manual,FALSE
+1491,Fiat,F130,1926,Maintainence service,Diesel,Manual,FALSE
+1492,Ford,F131,1927,Maintainence service,Diesel,Manual,FALSE
+1493,Ferrari,F132,1928,Maintainence service,Diesel,Manual,FALSE
+1494,Fiat,F133,1929,Maintainence service,Diesel,Manual,FALSE
+1495,Ford,F134,1930,Maintainence service,Diesel,Manual,FALSE
+1496,Ferrari,F135,1931,Maintainence service,Diesel,Manual,FALSE
+1497,Fiat,F136,1932,Maintainence service,Diesel,Manual,FALSE
+1498,Ford,F137,1933,Maintainence service,Diesel,Manual,FALSE
+1499,Ferrari,F138,1934,Maintainence service,Diesel,Manual,FALSE
+1500,Fiat,F139,1935,Maintainence service,Diesel,Manual,FALSE
+1501,Ford,F140,1936,Maintainence service,Diesel,Manual,FALSE
+1502,Ferrari,F141,1937,Maintainence service,Diesel,Manual,FALSE
+1503,Fiat,F142,1938,Maintainence service,Diesel,Manual,FALSE
+1504,Ford,F143,1939,Maintainence service,Diesel,Manual,FALSE
+1505,Ferrari,F144,1940,Maintainence service,Diesel,Manual,FALSE
+1506,Fiat,F145,1941,Maintainence service,Diesel,Manual,FALSE
+1507,Ford,F146,1942,Maintainence service,Diesel,Manual,FALSE
+1508,Ferrari,F147,1943,Maintainence service,Diesel,Manual,FALSE
+1509,Fiat,F148,1944,Extra Comfort and Milage,Diesel,Manual,FALSE
+1510,Ford,F149,1945,Extra Comfort and Milage,Diesel,Manual,FALSE
+1511,Jaugar,J160,1946,Extra Comfort and Milage,Diesel,Manual,FALSE
+1512,Jeep,J161,1947,Extra Comfort and Milage,Diesel,Manual,FALSE
+1513,Jaugar,J162,1948,Extra Comfort and Milage,Diesel,Manual,FALSE
+1514,Jeep,J163,1949,Extra Comfort and Milage,Diesel,Manual,FALSE
+1515,Jaugar,J164,1950,Extra Comfort and Milage,Diesel,Manual,FALSE
+1516,Jeep,J165,1951,Extra Comfort and Milage,Diesel,Manual,FALSE
+1517,Jaugar,J166,1952,Extra Comfort and Milage,Diesel,Manual,FALSE
+1518,Jeep,J167,1953,Extra Comfort and Milage,Diesel,Manual,FALSE
+1519,Jaugar,J168,1954,Extra Comfort and Milage,Diesel,Manual,FALSE
+1520,Jeep,J169,1955,Extra Comfort and Milage,Diesel,Manual,FALSE
+1521,Jaugar,J170,1956,Extra Comfort and Milage,Diesel,Manual,FALSE
+1522,Jeep,J171,1957,Extra Comfort and Milage,Diesel,Manual,FALSE
+1523,Jaugar,J172,1958,Extra Comfort and Milage,Diesel,Manual,FALSE
+1524,Jeep,J173,1959,Extra Comfort and Milage,Diesel,Manual,FALSE
+1525,Jaugar,J174,1960,Extra Comfort and Milage,Diesel,Manual,FALSE
+1526,Jeep,J175,1961,Extra Comfort and Milage,Diesel,Manual,FALSE
+1527,Jaugar,J176,1962,Extra Comfort and Milage,Diesel,Manual,FALSE
+1528,Jeep,J177,1963,Extra Comfort and Milage,Diesel,Manual,FALSE
+1529,Jaugar,J178,1964,Extra Comfort and Milage,Diesel,Manual,FALSE
+1530,Jeep,J179,1965,Extra Comfort and Milage,Diesel,Manual,FALSE
+1531,Jaugar,J180,1966,Extra Comfort and Milage,Diesel,Manual,FALSE
+1532,Jeep,J181,1967,Extra Comfort and Milage,Diesel,Manual,FALSE
+1533,Jaugar,J182,1968,Extra Comfort and Milage,Diesel,Manual,FALSE
+1534,Jeep,J183,1969,Extra Comfort and Milage,Diesel,Manual,FALSE
+1535,Jaugar,J184,1970,Extra Comfort and Milage,Diesel,Manual,FALSE
+1536,Jeep,J185,1971,Extra Comfort and Milage,Diesel,Manual,FALSE
+1537,Jaugar,J186,1972,Extra Comfort and Milage,Diesel,Manual,FALSE
+1538,Jeep,J187,1973,Extra Comfort and Milage,Diesel,Manual,FALSE
+1539,Jaugar,J188,1974,Extra Comfort and Milage,Gas,Manual,FALSE
+1540,Jeep,J189,1975,Extra Comfort and Milage,Gas,Manual,FALSE
+1541,Jaugar,J190,1976,Extra Comfort and Milage,Gas,Manual,FALSE
+1542,Jeep,J191,1977,Extra Comfort and Milage,Gas,Manual,FALSE
+1543,Jaugar,J192,1978,Extra Comfort and Milage,Gas,Manual,FALSE
+1544,Jeep,J193,1979,Extra Comfort and Milage,Gas,Manual,FALSE
+1545,Jaugar,J194,1980,Extra Comfort and Milage,Gas,Manual,FALSE
+1546,Jeep,J195,1981,Extra Comfort and Milage,Gas,Manual,FALSE
+1547,Jaugar,J196,1982,Extra Comfort and Milage,Gas,Manual,FALSE
+1548,Jeep,J197,1983,Extra Comfort and Milage,Gas,Manual,FALSE
+1549,Jaugar,J198,1984,Extra Comfort and Milage,Gas,Manual,FALSE
+1550,Jeep,J199,1985,Extra Comfort and Milage,Gas,Manual,FALSE
+1551,Jaugar,J200,1986,Extra Comfort and Milage,Gas,Manual,FALSE
+1552,Jeep,J201,1987,Extra Comfort and Milage,Gas,Manual,FALSE
+1553,Jaugar,J202,1988,Extra Comfort and Milage,Gas,Manual,FALSE
+1554,Jeep,J203,1989,Extra Comfort and Milage,Gas,Manual,FALSE
+1555,Jaugar,J204,1990,Extra Comfort and Milage,Gas,Manual,FALSE
+1556,Volkswagen,V190,1991,Extra Comfort and Milage,Gas,Manual,FALSE
+1557,Volvo,V191,1992,Extra Comfort and Milage,Gas,Manual,FALSE
+1558,Volkswagen,V192,1993,Extra Comfort and Milage,Gas,Manual,FALSE
+1559,Volvo,V193,1994,Extra Comfort and Milage,Gas,Manual,FALSE
+1560,Volkswagen,V194,1995,Extra Comfort and Milage,Gas,Manual,FALSE
+1561,Volvo,V195,1996,Extra Comfort and Milage,Gas,Manual,FALSE
+1562,Volkswagen,V196,1997,Extra Comfort and Milage,Gas,Manual,FALSE
+1563,Volvo,V197,1998,Extra Comfort and Milage,Gas,Manual,FALSE
+1564,Volkswagen,V198,1999,Extra Comfort and Milage,Gas,Manual,FALSE
+1565,Volvo,V199,2000,Extra Comfort and Milage,Gas,Manual,FALSE
+1566,Volkswagen,V200,2001,Extra Comfort and Milage,Gas,Manual,FALSE
+1567,Volvo,V201,2002,Extra Comfort and Milage,Gas,Manual,FALSE
+1568,Volkswagen,V202,2003,Extra Comfort and Milage,Gas,Manual,FALSE
+1569,Volvo,V203,2004,Extra Comfort and Milage,Gas,Manual,FALSE
+1570,Volkswagen,V204,2005,Extra Comfort and Milage,Gas,Manual,FALSE
+1571,Volvo,V205,2006,Extra Comfort and Milage,Gas,Manual,TRUE
+1572,Volkswagen,V206,2007,Extra Comfort and Milage,Gas,Automatic,TRUE
+1573,Volvo,V207,2008,Extra Comfort and Milage,Gas,Automatic,TRUE
+1574,Volkswagen,V208,2009,Extra Comfort and Milage,Gas,Automatic,TRUE
+1575,Volvo,V209,2010,Extra Comfort and Milage,Gas,Automatic,TRUE
+1576,Volkswagen,V210,2011,Extra Comfort and Milage,Gas,Automatic,TRUE
+1577,Volvo,V211,2012,Extra Comfort and Milage,Gas,Automatic,TRUE
+1578,Volkswagen,V212,2013,Extra Comfort and Milage,Gas,Automatic,TRUE
+1579,Volvo,V213,2014,Extra Comfort and Milage,Gas,Automatic,TRUE
+1580,Volkswagen,V214,2015,Extra Comfort and Milage,Gas,Automatic,TRUE
+1581,Volvo,V215,2016,Extra Comfort and Milage,Gas,Automatic,TRUE
+1582,Volkswagen,V216,2017,Extra Comfort and Milage,Gas,Automatic,TRUE
+1583,Volvo,V217,2018,Extra Comfort and Milage,Gas,Automatic,TRUE
+1584,Volkswagen,V218,1881,Extra Comfort and Milage,Gas,Automatic,TRUE
+1585,Volvo,V219,1882,Extra Comfort and Milage,Gas,Automatic,TRUE
+1586,Volkswagen,V220,1883,Extra Comfort and Milage,Gas,Automatic,TRUE
+1587,Volvo,V221,1884,Accident Protection Plan,Gas,Automatic,TRUE
+1588,Volkswagen,V222,1885,Accident Protection Plan,Gas,Automatic,TRUE
+1589,Volvo,V223,1886,Accident Protection Plan,Gas,Automatic,TRUE
+1590,Volkswagen,V224,1887,Accident Protection Plan,Gas,Automatic,TRUE
+1591,Volvo,V225,1888,Accident Protection Plan,Diesel,Automatic,TRUE
+1592,Volkswagen,V226,1889,Accident Protection Plan,Diesel,Automatic,TRUE
+1593,Volvo,V227,1890,Accident Protection Plan,Diesel,Automatic,TRUE
+1594,Tata Motors,T170,1891,Accident Protection Plan,Diesel,Automatic,TRUE
+1595,Tesla,T171,1892,Accident Protection Plan,Diesel,Automatic,TRUE
+1596,Toyota,T172,1893,Accident Protection Plan,Diesel,Automatic,TRUE
+1597,Tata Motors,T173,1894,Accident Protection Plan,Diesel,Automatic,TRUE
+1598,Tesla,T174,1895,Accident Protection Plan,Diesel,Automatic,TRUE
+1599,Toyota,T175,1896,Accident Protection Plan,Diesel,Automatic,TRUE
+1600,Tata Motors,T176,1897,Accident Protection Plan,Diesel,Automatic,TRUE
+1601,Tesla,T177,1898,Accident Protection Plan,Diesel,Automatic,TRUE
+1602,Toyota,T178,1899,Accident Protection Plan,Diesel,Automatic,TRUE
+1603,Tata Motors,T179,1900,Accident Protection Plan,Diesel,Automatic,TRUE
+1604,Tesla,T180,1901,Accident Protection Plan,Diesel,Automatic,TRUE
+1605,Toyota,T181,1902,Accident Protection Plan,Diesel,Automatic,TRUE
+1606,Tata Motors,T182,1903,Accident Protection Plan,Diesel,Automatic,TRUE
+1607,Tesla,T183,1904,Accident Protection Plan,Diesel,Automatic,TRUE
+1608,Toyota,T184,1905,Accident Protection Plan,Diesel,Automatic,TRUE
+1609,Tata Motors,T185,1906,Accident Protection Plan,Diesel,Automatic,TRUE
+1610,Tesla,T186,1907,Accident Protection Plan,Diesel,Automatic,TRUE
+1611,Toyota,T187,1908,Accident Protection Plan,Diesel,Automatic,TRUE
+1612,Tata Motors,T188,1909,Accident Protection Plan,Diesel,Automatic,TRUE
+1613,Tesla,T189,1910,Accident Protection Plan,Diesel,Automatic,TRUE
+1614,Toyota,T190,1911,Accident Protection Plan,Diesel,Automatic,TRUE
+1615,Tata Motors,T191,1912,Accident Protection Plan,Diesel,Automatic,TRUE
+1616,Tesla,T192,1913,Accident Protection Plan,Diesel,Automatic,TRUE
+1617,Toyota,T193,1914,Accident Protection Plan,Diesel,Automatic,TRUE
+1618,Tata Motors,T194,1915,Accident Protection Plan,Diesel,Manual,TRUE
+1619,Tesla,T195,1916,Accident Protection Plan,Diesel,Manual,TRUE
+1620,Toyota,T196,1917,Accident Protection Plan,Diesel,Manual,TRUE
+1621,Tata Motors,T197,1918,Accident Protection Plan,Diesel,Manual,TRUE
+1622,Tesla,T198,1919,Accident Protection Plan,Diesel,Manual,FALSE
+1623,Toyota,T199,1920,Accident Protection Plan,Diesel,Manual,FALSE
+1624,Tata Motors,T200,1921,Accident Protection Plan,Diesel,Manual,FALSE
+1625,Tesla,T201,1922,Accident Protection Plan,Diesel,Manual,FALSE
+1626,Toyota,T202,1923,Accident Protection Plan,Diesel,Manual,FALSE
+1627,Tata Motors,T203,1924,Accident Protection Plan,Diesel,Manual,FALSE
+1628,Tesla,T204,1925,Accident Protection Plan,Diesel,Manual,FALSE
+1629,Toyota,T205,1926,Accident Protection Plan,Diesel,Manual,FALSE
+1630,Tata Motors,T206,1927,Accident Protection Plan,Diesel,Manual,FALSE
+1631,Tesla,T207,1928,Accident Protection Plan,Diesel,Manual,FALSE
+1632,Toyota,T208,1929,Accident Protection Plan,Diesel,Manual,FALSE
+1633,Tata Motors,T209,1930,Accident Protection Plan,Diesel,Manual,FALSE
+1634,Tesla,T210,1931,Accident Protection Plan,Diesel,Manual,FALSE
+1635,Toyota,T211,1932,Accident Protection Plan,Diesel,Manual,FALSE
+1636,Tata Motors,T212,1933,Accident Protection Plan,Diesel,Manual,FALSE
+1637,Tesla,T213,1934,Accident Protection Plan,Diesel,Manual,FALSE
+1638,Toyota,T214,1935,Accident Protection Plan,Diesel,Manual,FALSE
+1639,Tata Motors,T215,1936,Accident Protection Plan,Diesel,Manual,FALSE
+1640,Tesla,T216,1937,Accident Protection Plan,Diesel,Manual,FALSE
+1641,Toyota,T217,1938,Accident Protection Plan,Diesel,Manual,FALSE
+1642,Tata Motors,T218,1939,Accident Protection Plan,Diesel,Manual,FALSE
+1643,Tesla,T219,1940,Accident Protection Plan,Diesel,Manual,FALSE
+1644,Toyota,T220,1941,Accident Protection Plan,Diesel,Manual,FALSE
+1645,Tata Motors,T221,1942,Accident Protection Plan,Diesel,Manual,FALSE
+1646,Volkswagen,V700,1943,Accident Protection Plan,Diesel,Manual,FALSE
+1647,Volvo,V701,1944,Accident Protection Plan,Diesel,Manual,FALSE
+1648,Volkswagen,V702,1945,Accident Protection Plan,Diesel,Manual,FALSE
+1649,Volvo,V703,1946,Accident Protection Plan,Diesel,Manual,FALSE
+1650,Volkswagen,V704,1947,Accident Protection Plan,Diesel,Manual,FALSE
+1651,Volvo,V705,1948,Accident Protection Plan,Diesel,Manual,FALSE
+1652,Volkswagen,V706,1949,Accident Protection Plan,Diesel,Manual,FALSE
+1653,Volvo,V707,1950,Accident Protection Plan,Diesel,Manual,FALSE
+1654,Volkswagen,V708,1951,Accident Protection Plan,Diesel,Manual,FALSE
+1655,Volvo,V709,1952,Accident Protection Plan,Diesel,Manual,FALSE
+1656,Volkswagen,V710,1953,Accident Protection Plan,Diesel,Manual,FALSE
+1657,Volvo,V711,1954,Accident Protection Plan,Diesel,Manual,FALSE
+1658,Volkswagen,V712,1955,Accident Protection Plan,Diesel,Manual,FALSE
+1659,Volvo,V713,1956,Accident Protection Plan,Diesel,Manual,FALSE
+1660,Volkswagen,V714,1957,Accident Protection Plan,Diesel,Manual,FALSE
+1661,Volvo,V715,1958,Accident Protection Plan,Diesel,Manual,FALSE
+1662,Volkswagen,V716,1959,Accident Protection Plan,Diesel,Manual,FALSE
+1663,Volvo,V717,1960,Accident Protection Plan,Diesel,Manual,FALSE
+1664,Volkswagen,V718,1961,Accident Protection Plan,Diesel,Manual,FALSE
+1665,Volvo,V719,1962,Accident Protection Plan,Diesel,Manual,FALSE
+1666,Volkswagen,V720,1963,Accident Protection Plan,Diesel,Manual,FALSE
+1667,Volvo,V721,1964,Accident Protection Plan,Diesel,Manual,FALSE
+1668,Volkswagen,V722,1965,Accident Protection Plan,Diesel,Manual,FALSE
+1669,Volvo,V723,1966,Accident Protection Plan,Diesel,Manual,FALSE
+1670,Volkswagen,V724,1967,Accident Protection Plan,Diesel,Manual,FALSE
+1671,Volvo,V725,1968,Accident Protection Plan,Diesel,Automatic,FALSE
+1672,Volkswagen,V726,1969,Accident Protection Plan,Diesel,Automatic,FALSE
+1673,Volvo,V727,1970,Accident Protection Plan,Diesel,Automatic,FALSE
+1674,Volkswagen,V728,1971,Accident Protection Plan,Diesel,Automatic,FALSE
+1675,Volvo,V729,1972,Accident Protection Plan,Gas,Automatic,FALSE
+1676,Volkswagen,V730,1973,Accident Protection Plan,Gas,Automatic,FALSE
+1677,Volvo,V731,1974,Accident Protection Plan,Gas,Automatic,FALSE
+1678,Volkswagen,V732,1975,Accident Protection Plan,Gas,Automatic,FALSE
+1679,Volvo,V733,1976,Accident Protection Plan,Gas,Automatic,FALSE
+1680,Volkswagen,V734,1977,Accident Protection Plan,Gas,Automatic,FALSE
+1681,Volvo,V735,1978,Accident Protection Plan,Gas,Automatic,FALSE
+1682,Volkswagen,V736,1979,Accident Protection Plan,Gas,Automatic,FALSE
+1683,Volvo,V737,1980,Accident Protection Plan,Gas,Automatic,FALSE
+1684,Volkswagen,V738,1981,Accident Protection Plan,Gas,Automatic,FALSE
+1685,Volvo,V739,1982,Accident Protection Plan,Gas,Automatic,FALSE
+1686,Volkswagen,V740,1983,Accident Protection Plan,Gas,Automatic,FALSE
+1687,Volvo,V741,1984,Accident Protection Plan,Gas,Automatic,FALSE
+1688,Volkswagen,V742,1985,Accident Protection Plan,Gas,Automatic,FALSE
+1689,Volvo,V743,1986,Accident Protection Plan,Gas,Automatic,FALSE
+1690,Volkswagen,V744,1987,Accident Protection Plan,Gas,Automatic,FALSE
+1691,Volvo,V745,1988,Accident Protection Plan,Gas,Automatic,FALSE
+1692,Volkswagen,V746,1989,Accident Protection Plan,Gas,Automatic,FALSE
+1693,Volvo,V747,1990,Accident Protection Plan,Gas,Automatic,FALSE
+1694,Volkswagen,V748,1991,Accident Protection Plan,Gas,Automatic,FALSE
+1695,Volvo,V749,1992,Accident Protection Plan,Gas,Automatic,FALSE
+1696,Volkswagen,V750,1993,Accident Protection Plan,Gas,Automatic,FALSE
+1697,Volvo,V751,1994,Accident Protection Plan,Gas,Automatic,FALSE
+1698,Volkswagen,V752,1995,Accident Protection Plan,Gas,Automatic,FALSE
+1699,Saab,S800,1996,Accident Protection Plan,Gas,Automatic,FALSE
+1700,Subaru,S801,1997,Accident Protection Plan,Gas,Automatic,FALSE
+1701,Suzuki,S802,1998,Accident Protection Plan,Gas,Automatic,FALSE
+1702,Saab,S803,1999,Accident Protection Plan,Gas,Automatic,TRUE
+1703,Subaru,S804,2000,Accident Protection Plan,Gas,Automatic,TRUE
+1704,Suzuki,S805,2001,Accident Protection Plan,Gas,Automatic,TRUE
+1705,Saab,S806,2002,Accident Protection Plan,Gas,Automatic,TRUE
+1706,Subaru,S807,2003,Accident Protection Plan,Gas,Automatic,TRUE
+1707,Suzuki,S808,2004,Accident Protection Plan,Gas,Automatic,TRUE
+1708,Saab,S809,2005,Accident Protection Plan,Gas,Automatic,TRUE
+1709,Subaru,S810,2006,Accident Protection Plan,Gas,Automatic,TRUE
+1710,Suzuki,S811,2007,Accident Protection Plan,Gas,Manual,TRUE
+1711,Saab,S812,2008,Accident Protection Plan,Gas,Manual,TRUE
+1712,Subaru,S813,2009,Accident Protection Plan,Gas,Manual,TRUE
+1713,Suzuki,S814,2010,Accident Protection Plan,Gas,Manual,TRUE
+1714,Saab,S815,2011,Accident Protection Plan,Gas,Manual,TRUE
+1715,Subaru,S816,2012,Accident Protection Plan,Gas,Manual,TRUE
+1716,Suzuki,S817,2013,Accident Protection Plan,Gas,Manual,TRUE
+1717,Saab,S818,2014,Accident Protection Plan,Gas,Manual,TRUE
+1718,Subaru,S819,2015,Accident Protection Plan,Gas,Manual,FALSE
+1719,Suzuki,S820,2016,Accident Protection Plan,Gas,Manual,FALSE
+1720,Saab,S821,2017,Accident Protection Plan,Gas,Manual,FALSE
+1721,Subaru,S822,2018,Accident Protection Plan,Gas,Manual,FALSE
+1722,Suzuki,S823,1881,Accident Protection Plan,Gas,Manual,FALSE
+1723,Saab,S824,1882,Accident Protection Plan,Gas,Manual,FALSE
+1724,Subaru,S825,1883,Accident Protection Plan,Gas,Manual,FALSE
+1725,Suzuki,S826,1884,Accident Protection Plan,Gas,Manual,FALSE
+1726,Saab,S827,1885,Accident Protection Plan,Gas,Manual,FALSE
+1727,Subaru,S828,1886,Accident Protection Plan,Gas,Manual,FALSE
+1728,Suzuki,S829,1887,Accident Protection Plan,Diesel,Manual,FALSE
+1729,Saab,S830,1888,Accident Protection Plan,Diesel,Manual,FALSE
+1730,Subaru,S831,1889,Accident Protection Plan,Diesel,Manual,FALSE
+1731,Suzuki,S832,1890,Accident Protection Plan,Diesel,Manual,FALSE
+1732,Saab,S833,1891,Accident Protection Plan,Diesel,Manual,FALSE
+1733,Subaru,S834,1892,Accident Protection Plan,Diesel,Manual,FALSE
+1734,Suzuki,S835,1893,Accident Protection Plan,Diesel,Manual,FALSE
+1735,Saab,S836,1894,Accident Protection Plan,Diesel,Manual,FALSE
+1736,Subaru,S837,1895,Accident Protection Plan,Diesel,Manual,FALSE
+1737,Suzuki,S838,1896,Accident Protection Plan,Diesel,Manual,FALSE
+1738,Saab,S839,1897,Accident Protection Plan,Diesel,Manual,FALSE
+1739,Subaru,S840,1898,Accident Protection Plan,Diesel,Manual,FALSE
+1740,Suzuki,S841,1899,Accident Protection Plan,Diesel,Manual,FALSE
+1741,Saab,S842,1900,Accident Protection Plan,Diesel,Manual,FALSE
+1742,Subaru,S843,1901,Accident Protection Plan,Diesel,Manual,FALSE
+1743,Suzuki,S844,1902,Accident Protection Plan,Diesel,Manual,FALSE
+1744,Saab,S845,1903,Accident Protection Plan,Diesel,Manual,TRUE
+1745,Subaru,S846,1904,Accident Protection Plan,Diesel,Manual,TRUE
+1746,Suzuki,S847,1905,Accident Protection Plan,Diesel,Manual,TRUE
+1747,Saab,S848,1906,Accident Protection Plan,Diesel,Manual,TRUE
+1748,Subaru,S849,1907,Accident Protection Plan,Diesel,Manual,TRUE
+1749,Suzuki,S850,1908,Accident Protection Plan,Diesel,Manual,TRUE
+1750,Saab,S851,1909,Accident Protection Plan,Diesel,Manual,TRUE
+1751,Subaru,S852,1910,Accident Protection Plan,Diesel,Manual,TRUE
+1752,Suzuki,S853,1911,Accident Protection Plan,Diesel,Manual,TRUE
+1753,Saab,S854,1912,Accident Protection Plan,Diesel,Manual,TRUE
+1754,Subaru,S855,1913,Accident Protection Plan,Diesel,Manual,TRUE
+1755,Suzuki,S856,1914,Accident Protection Plan,Diesel,Manual,TRUE
+1756,Saab,S857,1915,Accident Protection Plan,Diesel,Manual,TRUE
+1757,Subaru,S858,1916,Accident Protection Plan,Diesel,Manual,TRUE
+1758,Suzuki,S859,1917,Accident Protection Plan,Diesel,Manual,TRUE
+1759,Saab,S860,1918,Accident Protection Plan,Diesel,Manual,TRUE
+1760,Subaru,S861,1919,Accident Protection Plan,Diesel,Manual,TRUE
+1761,Suzuki,S862,1920,Accident Protection Plan,Diesel,Manual,TRUE
+1762,Saab,S863,1921,Accident Protection Plan,Diesel,Manual,TRUE
+1763,Subaru,S864,1922,Accident Protection Plan,Diesel,Manual,TRUE
+1764,Suzuki,S865,1923,Accident Protection Plan,Diesel,Manual,TRUE
+1765,Saab,S866,1924,Accident Protection Plan,Diesel,Manual,TRUE
+1766,Subaru,S867,1925,Accident Protection Plan,Diesel,Manual,TRUE
+1767,Suzuki,S868,1926,Accident Protection Plan,Diesel,Manual,TRUE
+1768,Saab,S869,1927,Accident Protection Plan,Diesel,Manual,FALSE
+1769,Subaru,S870,1928,Accident Protection Plan,Diesel,Manual,FALSE
+1770,Suzuki,S871,1929,Accident Protection Plan,Diesel,Manual,FALSE
+1771,Saab,S872,1930,Accident Protection Plan,Diesel,Manual,FALSE
+1772,Subaru,S873,1931,Accident Protection Plan,Diesel,Manual,FALSE
+1773,Suzuki,S874,1932,Accident Protection Plan,Diesel,Manual,FALSE
+1774,Saab,S875,1933,Accident Protection Plan,Diesel,Manual,FALSE
+1775,Subaru,S876,1934,Accident Protection Plan,Diesel,Manual,FALSE
+1776,Suzuki,S877,1935,Accident Protection Plan,Diesel,Manual,FALSE
+1777,Saab,S878,1936,Accident Protection Plan,Diesel,Manual,FALSE
+1778,Subaru,S879,1937,Accident Protection Plan,Diesel,Manual,FALSE
+1779,Suzuki,S880,1938,Accident Protection Plan,Diesel,Manual,FALSE
+1780,Saab,S881,1939,Accident Protection Plan,Diesel,Manual,FALSE
+1781,Subaru,S882,1940,Accident Protection Plan,Diesel,Manual,FALSE
+1782,Suzuki,S883,1941,Accident Protection Plan,Diesel,Manual,FALSE
+1783,Saab,S884,1942,Accident Protection Plan,Diesel,Manual,FALSE
+1784,Subaru,S885,1943,Accident Protection Plan,Diesel,Manual,FALSE
+1785,Suzuki,S886,1944,Accident Protection Plan,Diesel,Manual,FALSE
+1786,Saab,S887,1945,Accident Protection Plan,Diesel,Manual,TRUE
+1787,Subaru,S888,1946,Accident Protection Plan,Diesel,Manual,TRUE
+1788,Suzuki,S889,1947,Accident Protection Plan,Diesel,Manual,TRUE
+1789,Saab,S890,1948,Accident Protection Plan,Diesel,Manual,TRUE
+1790,Subaru,S891,1949,Accident Protection Plan,Diesel,Manual,TRUE
+1791,Suzuki,S892,1950,Accident Protection Plan,Diesel,Manual,TRUE
+1792,Saab,S893,1951,Accident Protection Plan,Diesel,Manual,TRUE
+1793,Subaru,S894,1952,Accident Protection Plan,Diesel,Manual,TRUE
+1794,Suzuki,S895,1953,Accident Protection Plan,Diesel,Manual,TRUE
+1795,Saab,S896,1954,Accident Protection Plan,Diesel,Manual,TRUE
+1796,Subaru,S897,1955,Accident Protection Plan,Diesel,Manual,TRUE
+1797,Suzuki,S898,1956,Accident Protection Plan,Diesel,Manual,TRUE
+1798,Saab,S899,1957,Accident Protection Plan,Diesel,Manual,TRUE
+1799,Subaru,S900,1958,Accident Protection Plan,Diesel,Manual,TRUE
+1800,Suzuki,S901,1959,Accident Protection Plan,Diesel,Manual,TRUE
+1801,Saab,S902,1960,Accident Protection Plan,Diesel,Manual,TRUE
+1802,Subaru,S903,1961,Accident Protection Plan,Diesel,Manual,TRUE
+1803,Suzuki,S904,1962,Accident Protection Plan,Diesel,Manual,TRUE
+1804,Saab,S905,1963,Accident Protection Plan,Diesel,Manual,TRUE
+1805,Subaru,S906,1964,Accident Protection Plan,Diesel,Manual,FALSE
+1806,Suzuki,S907,1965,Accident Protection Plan,Diesel,Manual,FALSE
+1807,Saab,S908,1966,Accident Protection Plan,Diesel,Manual,FALSE
+1808,Subaru,S909,1967,Accident Protection Plan,Diesel,Manual,FALSE
+1809,Suzuki,S910,1968,Accident Protection Plan,Diesel,Manual,FALSE
+1810,Saab,S911,1969,Accident Protection Plan,Diesel,Manual,FALSE
+1811,Subaru,S912,1970,Accident Protection Plan,Diesel,Manual,FALSE
+1812,Suzuki,S913,1971,Accident Protection Plan,Diesel,Manual,FALSE
+1813,Saab,S914,1972,Maintainence service,Diesel,Manual,FALSE
+1814,Subaru,S915,1973,Maintainence service,Diesel,Manual,FALSE
+1815,Suzuki,S916,1974,Maintainence service,Diesel,Manual,FALSE
+1816,Saab,S917,1975,Maintainence service,Diesel,Manual,FALSE
+1817,Subaru,S918,1976,Maintainence service,Diesel,Manual,FALSE
+1818,Suzuki,S919,1977,Maintainence service,Diesel,Manual,FALSE
+1819,Saab,S920,1978,Maintainence service,Gas,Manual,FALSE
+1820,Subaru,S921,1979,Maintainence service,Gas,Manual,FALSE
+1821,Suzuki,S922,1980,Maintainence service,Gas,Manual,FALSE
+1822,Saab,S923,1981,Maintainence service,Gas,Manual,FALSE
+1823,Subaru,S924,1982,Maintainence service,Gas,Manual,FALSE
+1824,Suzuki,S925,1983,Maintainence service,Gas,Manual,FALSE
+1825,Saab,S926,1984,Maintainence service,Gas,Manual,FALSE
+1826,Subaru,S927,1985,Maintainence service,Gas,Manual,FALSE
+1827,Suzuki,S928,1986,Maintainence service,Gas,Manual,FALSE
+1828,Saab,S929,1987,Maintainence service,Gas,Manual,FALSE
+1829,Subaru,S930,1988,Maintainence service,Gas,Manual,FALSE
+1830,Suzuki,S931,1989,Maintainence service,Gas,Manual,FALSE
+1831,Saab,S932,1990,Maintainence service,Gas,Manual,FALSE
+1832,Subaru,S933,1991,Maintainence service,Gas,Manual,FALSE
+1833,Suzuki,S934,1992,Maintainence service,Gas,Manual,FALSE
+1834,Saab,S935,1993,Maintainence service,Gas,Manual,FALSE
+1835,Subaru,S936,1994,Maintainence service,Gas,Manual,FALSE
+1836,Suzuki,S937,1995,Maintainence service,Gas,Manual,FALSE
+1837,Saab,S938,1996,Maintainence service,Gas,Manual,FALSE
+1838,Subaru,S939,1997,Maintainence service,Gas,Manual,FALSE
+1839,Suzuki,S940,1998,Maintainence service,Gas,Manual,FALSE
+1840,Saab,S941,1999,Maintainence service,Gas,Manual,FALSE
+1841,Subaru,S942,2000,Maintainence service,Gas,Manual,FALSE
+1842,Suzuki,S943,2001,Maintainence service,Gas,Manual,FALSE
+1843,Saab,S944,2002,Maintainence service,Gas,Manual,FALSE
+1844,Subaru,S945,2003,Maintainence service,Gas,Manual,FALSE
+1845,Suzuki,S946,2004,Maintainence service,Gas,Manual,FALSE
+1846,Saab,S947,2005,Maintainence service,Gas,Manual,TRUE
+1847,Subaru,S948,2006,Maintainence service,Gas,Manual,TRUE
+1848,Suzuki,S949,2007,Maintainence service,Gas,Manual,TRUE
+1849,Saab,S950,2008,Maintainence service,Gas,Manual,TRUE
+1850,Subaru,S951,2009,Maintainence service,Gas,Manual,TRUE
+1851,Suzuki,S952,2010,Maintainence service,Gas,Manual,TRUE
+1852,Saab,S953,2011,Maintainence service,Gas,Manual,TRUE
+1853,Subaru,S954,2012,Maintainence service,Gas,Manual,TRUE
+1854,Suzuki,S955,2013,Maintainence service,Gas,Manual,TRUE
+1855,Saab,S956,2014,Maintainence service,Gas,Manual,TRUE
+1856,Subaru,S957,2015,Maintainence service,Gas,Manual,TRUE
+1857,Suzuki,S958,2016,Maintainence service,Gas,Manual,TRUE
+1858,Saab,S959,2017,Maintainence service,Gas,Manual,TRUE
+1859,Subaru,S960,2018,Maintainence service,Gas,Manual,TRUE
+1860,Suzuki,S961,1992,Maintainence service,Gas,Manual,TRUE
+1861,Saab,S962,1993,Maintainence service,Gas,Manual,TRUE
+1862,Subaru,S963,1994,Maintainence service,Gas,Manual,TRUE
+1863,Suzuki,S964,1995,Maintainence service,Gas,Manual,TRUE
+1864,Saab,S965,1996,Maintainence service,Gas,Manual,TRUE
+1865,Subaru,S966,1997,Maintainence service,Gas,Manual,TRUE
+1866,Suzuki,S967,1998,Maintainence service,Gas,Manual,TRUE
+1867,Saab,S968,1999,Maintainence service,Gas,Manual,TRUE
+1868,Subaru,S969,2000,Maintainence service,Gas,Manual,TRUE
+1869,Suzuki,S970,2001,Maintainence service,Gas,Manual,TRUE
+1870,Saab,S971,2002,Maintainence service,Diesel,Manual,TRUE
+1871,Subaru,S972,2003,Maintainence service,Diesel,Manual,TRUE
+1872,Suzuki,S973,2004,Maintainence service,Diesel,Manual,TRUE
+1873,Saab,S974,2005,Maintainence service,Diesel,Manual,TRUE
+1874,Subaru,S975,2006,Maintainence service,Diesel,Manual,TRUE
+1875,Suzuki,S976,2007,Maintainence service,Diesel,Manual,TRUE
+1876,Saab,S977,2008,Maintainence service,Diesel,Manual,TRUE
+1877,Subaru,S978,2009,Maintainence service,Diesel,Manual,TRUE
+1878,Suzuki,S979,2010,Maintainence service,Diesel,Manual,TRUE
+1879,Saab,S980,2011,Maintainence service,Diesel,Manual,TRUE
+1880,Subaru,S981,2012,Maintainence service,Diesel,Manual,TRUE
+1881,Suzuki,S982,2013,Maintainence service,Diesel,Manual,TRUE
+1882,Saab,S983,2014,Maintainence service,Diesel,Manual,TRUE
+1883,Subaru,S984,2015,Maintainence service,Diesel,Manual,TRUE
+1884,Suzuki,S985,2016,Maintainence service,Diesel,Manual,TRUE
+1885,Saab,S986,2017,Maintainence service,Diesel,Manual,TRUE
+1886,Subaru,S987,2018,Maintainence service,Diesel,Manual,FALSE
+1887,Suzuki,S988,1890,Maintainence service,Diesel,Manual,FALSE
+1888,Saab,S989,1891,Maintainence service,Diesel,Manual,FALSE
+1889,Subaru,S990,1892,Maintainence service,Diesel,Manual,FALSE
+1890,Suzuki,S991,1893,Maintainence service,Diesel,Manual,FALSE
+1891,Saab,S992,1894,Maintainence service,Diesel,Manual,FALSE
+1892,Subaru,S993,1895,Maintainence service,Diesel,Manual,FALSE
+1893,Suzuki,S994,1896,Maintainence service,Diesel,Manual,FALSE
+1894,Saab,S995,1897,Maintainence service,Diesel,Manual,FALSE
+1895,Subaru,S996,1898,Maintainence service,Diesel,Manual,FALSE
+1896,Suzuki,S997,1899,Maintainence service,Diesel,Manual,FALSE
+1897,Saab,S998,1900,Maintainence service,Diesel,Manual,FALSE
+1898,Subaru,S999,1901,Maintainence service,Diesel,Manual,FALSE
+1899,Suzuki,S1000,1902,Maintainence service,Diesel,Manual,FALSE
+1900,Saab,S1001,1903,Maintainence service,Diesel,Manual,FALSE
+1901,Subaru,S1002,1904,Maintainence service,Diesel,Manual,FALSE
+1902,Suzuki,S1003,1905,Maintainence service,Diesel,Automatic,FALSE
+1903,Saab,S1004,1906,Maintainence service,Diesel,Automatic,FALSE
+1904,Subaru,S1005,1907,Maintainence service,Diesel,Automatic,FALSE
+1905,Suzuki,S1006,1908,Maintainence service,Diesel,Automatic,FALSE
+1906,Saab,S1007,1909,Maintainence service,Diesel,Automatic,FALSE
+1907,Subaru,S1008,1910,Maintainence service,Diesel,Automatic,FALSE
+1908,Suzuki,S1009,1911,Maintainence service,Diesel,Automatic,FALSE
+1909,Saab,S1010,1912,Maintainence service,Diesel,Automatic,FALSE
+1910,Subaru,S1011,1913,Maintainence service,Diesel,Automatic,FALSE
+1911,Suzuki,S1012,1914,Maintainence service,Diesel,Automatic,FALSE
+1912,Saab,S1013,1915,Maintainence service,Gas,Automatic,FALSE
+1913,Subaru,S1014,1916,Maintainence service,Gas,Automatic,FALSE
+1914,Suzuki,S1015,1917,Maintainence service,Gas,Automatic,FALSE
+1915,Saab,S1016,1918,Maintainence service,Gas,Automatic,FALSE
+1916,Subaru,S1017,1919,Maintainence service,Gas,Automatic,TRUE
+1917,Suzuki,S1018,1920,Maintainence service,Gas,Automatic,TRUE
+1918,Saab,S1019,1921,Maintainence service,Gas,Automatic,TRUE
+1919,Subaru,S1020,1922,Maintainence service,Gas,Automatic,TRUE
+1920,Suzuki,S1021,1923,Maintainence service,Gas,Automatic,TRUE
+1921,Saab,S1022,1924,Maintainence service,Gas,Automatic,TRUE
+1922,Acura,A1260,1925,Maintainence service,Gas,Automatic,TRUE
+1923,Audi,A1261,1926,Maintainence service,Gas,Automatic,TRUE
+1924,Aston,A1262,1927,Maintainence service,Gas,Automatic,TRUE
+1925,Acura,A1263,1928,Maintainence service,Gas,Automatic,TRUE
+1926,Audi,A1264,1929,Maintainence service,Gas,Automatic,TRUE
+1927,Aston,A1265,1930,Maintainence service,Gas,Automatic,TRUE
+1928,Acura,A1266,1931,Maintainence service,Gas,Automatic,TRUE
+1929,Audi,A1267,1932,Maintainence service,Gas,Automatic,TRUE
+1930,Aston,A1268,1933,Maintainence service,Gas,Automatic,TRUE
+1931,Acura,A1269,1934,Maintainence service,Gas,Automatic,TRUE
+1932,Audi,A1270,1935,Maintainence service,Gas,Automatic,TRUE
+1933,Aston,A1271,1936,Maintainence service,Gas,Automatic,TRUE
+1934,Acura,A1272,1937,Maintainence service,Gas,Automatic,TRUE
+1935,Audi,A1273,1938,Maintainence service,Gas,Automatic,TRUE
+1936,Aston,A1274,1939,Maintainence service,Gas,Automatic,TRUE
+1937,Acura,A1275,1940,Maintainence service,Diesel,Automatic,TRUE
+1938,Audi,A1276,1941,Maintainence service,Diesel,Automatic,TRUE
+1939,Aston,A1277,1942,Maintainence service,Diesel,Automatic,TRUE
+1940,Acura,A1278,1943,Maintainence service,Diesel,Automatic,TRUE
+1941,Audi,A1279,1944,Maintainence service,Diesel,Automatic,TRUE
+1942,Aston,A1280,1945,Maintainence service,Diesel,Automatic,TRUE
+1943,Acura,A1281,1946,Maintainence service,Diesel,Automatic,TRUE
+1944,Audi,A1282,1947,Maintainence service,Diesel,Automatic,TRUE
+1945,Aston,A1283,1948,Maintainence service,Diesel,Automatic,TRUE
+1946,Acura,A1284,1949,Maintainence service,Diesel,Automatic,TRUE
+1947,Audi,A1285,1950,Maintainence service,Diesel,Automatic,TRUE
+1948,Aston,A1286,1951,Maintainence service,Diesel,Automatic,TRUE
+1949,Acura,A1287,1952,Maintainence service,Diesel,Automatic,TRUE
+1950,Audi,A1288,1953,Maintainence service,Diesel,Automatic,TRUE
+1951,Aston,A1289,1954,Maintainence service,Diesel,Automatic,TRUE
+1952,Acura,A1290,1955,Maintainence service,Diesel,Automatic,TRUE
+1953,Audi,A1291,1956,Maintainence service,Diesel,Automatic,TRUE
+1954,Aston,A1292,1957,Maintainence service,Diesel,Automatic,TRUE
+1955,Ram,R450,1958,Maintainence service,Diesel,Automatic,TRUE
+1956,Renault,R451,1959,Maintainence service,Diesel,Automatic,TRUE
+1957,Rolls Royce,R452,1960,Maintainence service,Diesel,Automatic,TRUE
+1958,Ram,R453,1961,Maintainence service,Diesel,Automatic,TRUE
+1959,Renault,R454,1962,Maintainence service,Diesel,Automatic,TRUE
+1960,Rolls Royce,R455,1963,Maintainence service,Diesel,Automatic,TRUE
+1961,Ram,R456,1964,Maintainence service,Diesel,Automatic,TRUE
+1962,Renault,R457,1965,Maintainence service,Diesel,Automatic,TRUE
+1963,Rolls Royce,R458,1966,Maintainence service,Diesel,Automatic,TRUE
+1964,Ram,R459,1967,Maintainence service,Diesel,Automatic,TRUE
+1965,Renault,R460,1968,Maintainence service,Diesel,Automatic,TRUE
+1966,Rolls Royce,R461,1969,Maintainence service,Diesel,Automatic,TRUE
+1967,Ram,R462,1970,Maintainence service,Diesel,Automatic,TRUE
+1968,Renault,R463,1971,Maintainence service,Diesel,Automatic,TRUE
+1969,Rolls Royce,R464,1972,Maintainence service,Diesel,Automatic,TRUE
+1970,Ram,R465,1973,Maintainence service,Diesel,Automatic,TRUE
+1971,Renault,R466,1974,Maintainence service,Diesel,Automatic,TRUE
+1972,Rolls Royce,R467,1975,Maintainence service,Gas,Automatic,TRUE
+1973,Ram,R468,1976,Maintainence service,Gas,Automatic,TRUE
+1974,Renault,R469,1977,Maintainence service,Gas,Automatic,TRUE
+1975,Lamborgini,L370,1978,Maintainence service,Gas,Automatic,TRUE
+1976,Land Rover,L371,1979,Maintainence service,Gas,Automatic,TRUE
+1977,Lexus,L372,1980,Maintainence service,Gas,Automatic,TRUE
+1978,Lamborgini,L373,1981,Maintainence service,Gas,Manual,TRUE
+1979,Land Rover,L374,1982,Maintainence service,Gas,Manual,TRUE
+1980,Lexus,L375,1983,Maintainence service,Gas,Manual,TRUE
+1981,Lamborgini,L376,1984,Maintainence service,Gas,Manual,TRUE
+1982,Land Rover,L377,1985,Maintainence service,Gas,Manual,TRUE
+1983,Lexus,L378,1986,Maintainence service,Gas,Manual,TRUE
+1984,Lamborgini,L379,1987,Maintainence service,Gas,Manual,TRUE
+1985,Land Rover,L380,1988,Maintainence service,Gas,Manual,TRUE
+1986,Lexus,L381,1989,Maintainence service,Gas,Manual,TRUE
+1987,Lamborgini,L382,1990,Maintainence service,Gas,Manual,FALSE
+1988,Land Rover,L383,1991,Maintainence service,Gas,Manual,FALSE
+1989,Lexus,L384,1992,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1990,Lamborgini,L385,1993,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1991,Land Rover,L386,1994,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1992,Lexus,L387,1995,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1993,Lamborgini,L388,1996,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1994,Tesla,T890,1997,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1995,Toyota,T891,1998,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1996,Tata Motprs,T892,1999,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1997,Toyota,T893,2000,Accident Protection Plan and Maintainence service,Gas,Manual,FALSE
+1998,Tata Motprs,T894,2001,Accident Protection Plan and Maintainence service,Gas,Automatic,TRUE
