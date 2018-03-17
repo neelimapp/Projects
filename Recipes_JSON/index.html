@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<h1>TASTY RECEPIES</h1>
+	<style>
+	h1 {color:red; text-align:center;}
+	h3 {color:blue; font-size:180%;}
+	h4 {color:green; font-size:120%;}
+	</style>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+	<script>
+	var jsonURL = "https://s3-us-west-2.amazonaws.com/digicode-interview/Q1.json";
+	if(navigator.userAgent.indexOf("Chrome") != -1 || navigator.userAgent.indexOf("Firefox") != -1 
+											|| navigator.userAgent.indexOf("Safari") != -1){
+		jsonURL = "http://crossorigin.me/" + jsonURL;
+	}
+	
+	$(function() {
+		// parse the JSON to the data object
+		$.getJSON(jsonURL,function(data){
+			console.log(data);
+			// Iterate through all the recipes to get the recipe names
+			$.each(data.recipes, function(i, f) {
+				var recipe_details =  "<h3>" + f.name + "</h3><h4>Ingredients</h4><ul>"
+				// For every recipe iterate through the ingredients and display its name and amount
+				$.each(f.Ingredients, function(i,p){
+					recipe_details = recipe_details + "<li>" + p.name + " - " + p.amount + "</li>"
+				});
+				recipe_details = recipe_details + "</ul> <h4>Steps</h4>"
+				// For every recipe iterate through the steps to display the steps 
+				// followed to prepare the recipe
+				$.each(f.steps, function(i,s){
+					recipe_details = recipe_details + "<p>" + s + "</p>"
+				});
+				// For every recipe iterate through the Similar Cuisines only if that key is available 
+				// and display them
+				if ("SimilarCuisines" in f){
+					recipe_details = recipe_details + "<h4>Similar Cuisines</h4> <ul>"
+					$.each(f.SimilarCuisines, function(i,c){
+					recipe_details = recipe_details + "<li>" + c + "</li>"
+				});}
+				recipe_details = recipe_details + "</ul>"
+				console.log(recipe_details);
+				// append the constructed HTML in the div tag with the ID data
+				$(".data").append(recipe_details);
+			});
+			var Ingredients_details = "<h3>Ingredients Details</h3><ul>"
+			// Iterate through the Ingredients Details and display Ingredients name and its Details via URL
+			$.each(data.IngredientsDetails, function(i, d) {
+				Ingredients_details = Ingredients_details + "<li>" + "<a href="+ d +">"+ i +"</a></li>"
+			});
+			Ingredients_details = Ingredients_details + "</ul>"
+			// append the constructed HTML in the div tag with the ID data
+			$(".data").append(Ingredients_details);
+		});
+	});	
+	</script>
+	</head>
+
+	<body background="recipe.png">
+		<div class="data" style="width:800px;"> </div>
+	</body>
+</html>
