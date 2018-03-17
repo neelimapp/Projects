@@ -1,0 +1,17 @@
+"id","alias","manufacturer","model","type","class","unit"
+1546,"In Bathroom","Zipato","Multisensor","Binary","time","seconds"
+1558,"In Bedroom","Zipato","Multisensor","Binary","time","seconds"
+1559,"Temperature in Bedroom","Zipato","Multisensor","Temperature","value","F"
+1564,"Using Microwave","Aeon Labs","Smart Switch","Power","time","seconds"
+1573,"Opened Front Door","Zipato","Multisensor","Binary","count",NA
+1579,"Opened Medicine Cabinet","Aeon Labs","Door/Window","Binary","count",NA
+1588,"Opened Pantry","Aeon Labs","Door/Window","Binary","count",NA
+1600,"Using Television","Aeon Labs","Smart Switch","Power","time","seconds"
+1604,"Temperature in Living Room","Aeon Labs","Multisensor","Temperature","value","F"
+1608,"In Living Room","Aeon Labs","Multisensor","Binary","time","seconds"
+1613,"Temperature in Shower","Aeon Labs","Multisensor","Temperature","value","F"
+1617,"In Shower","Aeon Labs","Multisensor","Binary","time","seconds"
+1618,"Opened Garage Door","Aeon Labs","Door/Window","Binary","count",NA
+1627,"In Study","Ecolink","Motion","Binary","time","seconds"
+1632,"Opened Fridge","Aeon Labs","Door/Window","Binary","count",NA
+1645,"In Kitchen","Ecolink","Motion Sensor","Binary","time","seconds"
